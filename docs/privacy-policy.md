@@ -8,12 +8,12 @@ permalink: /privacy-policy/
 
 **AuraQuit – Quit Smoking**
 
-**Effective date:** August 29, 2026  
-**Last updated:** August 29, 2026
+**Effective date:** August 30, 2026  
+**Last updated:** August 30, 2026
 
 This Privacy Policy explains how AuraQuit (“AuraQuit,” “the App,” “we,” “us,” or “our”) collects, uses, stores, and shares information when you use the AuraQuit mobile application.
 
-AuraQuit is a smoking-cessation support and habit-tracking app. It is not a medical device and does not provide medical diagnosis or treatment. If you have questions about stopping smoking or nicotine withdrawal, consult a qualified healthcare professional.
+AuraQuit is a smoking-cessation support and habit-tracking app. It is not a medical device and does not provide medical diagnosis, medical advice, or treatment. If you have questions about quitting smoking, nicotine withdrawal, or your health, consult a qualified healthcare professional.
 
 ---
 
@@ -21,107 +21,224 @@ AuraQuit is a smoking-cessation support and habit-tracking app. It is not a medi
 
 ### 1.1 Account information
 
-When you create or use an AuraQuit account, we may collect:
+AuraQuit requires an account so that your history can be backed up and restored if you change, lose, or reset your device.
+
+You may sign in using **Sign in with Apple** or **Sign in with Google**. Depending on the sign-in method and the information you choose to provide, we may receive:
 
 - A user identifier associated with your account
-- Your name and email address, if you choose to provide them
-- Information provided by Sign in with Apple, such as your Apple account identifier, name, or private relay email address
-- Authentication and account status information
+- Your email address
+- Your name, if provided by Apple or Google
+- Authentication and account-status information
 
-Apple does not provide your Apple ID password to AuraQuit.
+Neither Apple nor Google provides your password to AuraQuit.
+
+If you use Sign in with Apple and choose **Hide My Email**, AuraQuit receives Apple’s private relay email address instead of your personal email address. The App will continue to work normally.
 
 ### 1.2 Quit-smoking and wellness information
 
-You may choose to enter information such as:
+You may choose to provide information such as:
 
 - Your smoking history and average cigarette use
-- Your quit date, goals, streaks, and progress
-- Cigarettes smoked or skipped
+- Your quit date, quit plan, pace, goals, streaks, and progress
+- Cigarettes smoked or skipped and the time of each entry
 - Cravings, triggers, routines, and craving times
-- Reasons for quitting and personal motivations
-- Estimated cigarette cost and money saved
-- Completion of breathing, walking, focus, or other in-app activities
-- Notification preferences and app settings
+- Your reasons for quitting and personal motivations
+- A short written motivation or “why” note
+- Estimated cigarette cost, preferred currency, and money saved
+- Completion of breathing, walking, focus, or other craving-support activities
+- Notification preferences and App settings
 
-Some of this information may be considered health or wellness information in certain jurisdictions. We use it only to provide and improve AuraQuit’s quit-smoking features.
+Some of this information may be considered health or wellness information under applicable law.
 
-### 1.3 Motion and activity information
+AuraQuit uses this information only to provide and personalize its quit-smoking and habit-tracking features. We do not use your quit-smoking or wellness information for advertising, and we do not sell it.
 
-If you grant permission for a walking or step-based activity, AuraQuit may access motion or step-count information needed to run that activity. We do not use this information for advertising. Permission can be changed at any time in your device settings.
+Progress information such as streaks, targets, savings, health milestones, and pattern insights is calculated on your device from the information you enter.
 
-### 1.4 Purchase and subscription information
+### 1.3 Your “why” photo
 
-AuraQuit uses Apple’s App Store and RevenueCat to offer and manage subscriptions. We may receive or process:
+AuraQuit may allow you to optionally select one photo from your photo library as a personal reminder of your reason for quitting.
 
-- An app user identifier
+The selected photo is copied into AuraQuit’s private storage on your device.
+
+**AuraQuit does not upload this photo to Supabase or include it in AuraQuit’s cloud account backup.**
+
+When restoring your AuraQuit account on another device, your written motivation may be restored, but the photo will need to be selected again.
+
+AuraQuit accesses only the image you choose. It does not browse, index, or upload your full photo library.
+
+Local App data may still be included in an Apple device or iCloud backup depending on your device and backup settings.
+
+### 1.4 Motion and activity information
+
+If you grant permission to use AuraQuit’s walking activity, the App may access motion or step-count information needed to provide that activity.
+
+Step counts used during the activity are displayed on your device and are not uploaded to AuraQuit’s servers.
+
+AuraQuit does not use motion or activity information for advertising.
+
+You can change motion-related permissions at any time through your device settings.
+
+### 1.5 Purchase and subscription information
+
+AuraQuit uses Apple’s App Store and RevenueCat to offer, manage, verify, and restore subscriptions.
+
+Depending on how the subscription system is configured, Apple and RevenueCat may process information including:
+
+- An App User ID or other subscription identifier
 - Subscription status and entitlement information
-- Product purchased, transaction history, renewal status, and expiration date
-- App Store receipt or transaction data
-- Device type, operating system, app version, and country or region
+- Products purchased
+- Transaction and renewal information
+- Subscription expiration information
+- App Store receipts or transaction data
+- Device type
+- Operating-system information
+- App version
+- Locale, country, region, or currency-related information associated with the transaction
 
-We do not receive your full payment-card details. Apple processes payments under its own terms and privacy policy.
+AuraQuit does not receive your full payment-card details. Payments are processed by Apple.
 
-### 1.5 Device, analytics, and diagnostic information
+RevenueCat may also provide AuraQuit with subscription-related reporting and analytics based on purchase and entitlement information. AuraQuit does not use RevenueCat to analyze which screens you view, which craving activities you complete, or your smoking and wellness entries.
 
-To operate, secure, troubleshoot, and improve the App, we may collect:
+AuraQuit may cache subscription status on your device, including whether your subscription is active, when the current subscription period ends, and when the status was last checked. This allows the App to determine access when an internet connection is temporarily unavailable.
 
-- Device model, operating system, language, country or region, and app version
-- App launches, screens viewed, feature interactions, and performance information
-- Crash reports, error logs, and diagnostic data
-- IP address and other technical information automatically processed when the App communicates with service providers
-- A device, installation, or app-instance identifier
+### 1.6 Device and technical information
 
-We do not use this information for third-party advertising or cross-app tracking.
+AuraQuit does not include third-party behavioral analytics or advertising SDKs and does not include a third-party crash-reporting SDK.
 
-### 1.6 Notifications
+We do not use behavioral analytics to track:
 
-If you enable notifications, AuraQuit may process notification preferences, scheduled reminder times, and a device push token where required to deliver reminders. You can disable notifications in AuraQuit or in iOS Settings.
+- Screens you view
+- Features you use
+- Session length
+- Craving activities you complete
+- Smoking or craving entries
+- Your navigation through the App
 
-### 1.7 Communications
+We do not use the Apple advertising identifier (IDFA) for advertising or cross-app tracking.
 
-If you contact us for support, we may collect your email address and the contents of your message, including any information you voluntarily provide.
+When AuraQuit communicates with service providers such as Supabase, RevenueCat, Apple, or Google, those providers may process technical information required to provide their services, such as:
+
+- IP address
+- Device type
+- Operating-system version
+- App version
+- Locale, country, or region information
+
+This technical information is processed by those providers according to their respective privacy practices.
+
+### 1.7 Notifications
+
+If you enable reminders, AuraQuit processes information such as:
+
+- Which reminders you enable
+- Reminder times
+- Quiet hours
+- Notification preferences
+
+AuraQuit’s quit-smoking reminders are scheduled locally on your device.
+
+AuraQuit does not operate its own push-notification server for these reminders and does not remotely trigger them.
+
+You can disable or change notifications from within AuraQuit or through iOS Settings.
+
+### 1.8 Communications
+
+If you contact us for support, privacy assistance, or another request, we may receive:
+
+- Your email address
+- The contents of your message
+- Any information you voluntarily include in the message
 
 ---
 
 ## 2. How We Use Information
 
-We use information to:
+We use information as necessary to:
 
-- Create and authenticate your account
+- Create and authenticate your AuraQuit account
 - Provide smoking, craving, streak, savings, and progress-tracking features
-- Personalize goals, reminders, motivation, and craving-support activities
-- Sync your information across supported devices
-- Process subscriptions, verify entitlements, and restore purchases
-- Send notifications you enable
-- Maintain security and prevent abuse
-- Diagnose crashes and technical problems
-- Understand feature usage and improve AuraQuit
+- Personalize goals, reminders, motivations, and craving-support activities
+- Back up eligible App information and restore it on another device
+- Process subscriptions and verify subscription entitlements
+- Restore purchases
+- Schedule notifications you request
+- Maintain the security and integrity of the App
+- Prevent abuse or unauthorized access
 - Respond to support, privacy, and account-deletion requests
-- Comply with legal obligations and enforce our rights
+- Comply with applicable legal obligations
+- Establish, exercise, or defend legal rights where necessary
 
-We do not sell your personal information. We do not use your quit-smoking or wellness information for advertising.
+We do not sell your personal information.
+
+We do not use your smoking, craving, or wellness information for advertising.
+
+We do not use behavioral analytics to profile how you use AuraQuit.
 
 ---
 
 ## 3. Services That Process Information
 
-We use service providers only as needed to operate AuraQuit.
+AuraQuit currently relies on the following third-party services to provide specific App functionality.
+
+These services may process information only as necessary to provide their respective services, subject to their own agreements, privacy practices, and applicable legal obligations.
 
 ### Apple
 
-Sign in with Apple may authenticate your account, the App Store processes purchases, and Apple’s notification services may deliver notifications. Apple processes information under its [Privacy Policy](https://www.apple.com/legal/privacy/).
+Apple provides services including **Sign in with Apple**, App Store purchases, subscription management, and payment processing.
 
-### Google Firebase
+Apple may process authentication, account, transaction, device, and subscription information when you use these services.
 
-AuraQuit may use Firebase services for authentication, cloud data storage or synchronization, analytics, crash reporting, and app infrastructure. Depending on the Firebase services enabled, Google may process account identifiers, app data stored by AuraQuit, device and app information, usage events, diagnostics, IP addresses, and push-notification tokens.
+Apple Privacy Policy:  
+https://www.apple.com/legal/privacy/
 
-Google describes Firebase privacy and security practices at [Privacy and Security in Firebase](https://firebase.google.com/support/privacy) and in the [Google Privacy Policy](https://policies.google.com/privacy).
+### Google
+
+If you choose **Sign in with Google**, Google authenticates your account and provides information required to establish your AuraQuit account, such as a user identifier, email address, and potentially your name depending on your account and consent.
+
+AuraQuit does not use Firebase, Google Analytics, Google Ads, or other Google services for App analytics or advertising.
+
+Google Privacy Policy:  
+https://policies.google.com/privacy
+
+### Supabase
+
+Supabase, Inc. provides AuraQuit’s authentication infrastructure and hosted database.
+
+Eligible AuraQuit account and backup information may be stored in Supabase, including:
+
+- Account identifiers
+- Email address
+- Authentication information or tokens
+- Profile information
+- Smoking and craving logs
+- Goals and progress information
+- Other information you enter that is included in AuraQuit’s account backup
+
+AuraQuit uses database row-level security associated with the authenticated account to restrict access to account data.
+
+Supabase Privacy Policy:  
+https://supabase.com/privacy
 
 ### RevenueCat
 
-RevenueCat helps manage subscriptions and purchase entitlements. It may process app user identifiers, device and operating-system information, subscription activity, App Store receipts, purchase tokens, and related metadata. RevenueCat acts as a service provider for AuraQuit’s subscription system. See the [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy).
+RevenueCat, Inc. helps AuraQuit manage subscriptions, purchases, and entitlements.
 
-These providers may use subprocessors and process information in countries other than your own, subject to their contractual and legal safeguards.
+RevenueCat may process information such as:
+
+- App User IDs
+- Device and operating-system information
+- Subscription activity
+- Purchase history
+- App Store receipts or transaction data
+- Entitlement information
+- Related subscription metadata
+
+RevenueCat is used for subscription functionality and subscription-related reporting. It is not used to collect AuraQuit smoking logs, craving entries, your “why” photo, or the contents of your motivation note.
+
+RevenueCat Privacy Policy:  
+https://www.revenuecat.com/privacy
+
+These service providers may use subprocessors or process information in countries other than the country in which you live, subject to their contractual and legal obligations.
 
 ---
 
@@ -129,125 +246,260 @@ These providers may use subprocessors and process information in countries other
 
 We may disclose information:
 
-- To the service providers described above so they can operate services for AuraQuit
-- When you direct us or consent to a disclosure
-- To comply with law, regulation, legal process, or a valid governmental request
-- To protect the rights, safety, security, or property of users, AuraQuit, or others
-- In connection with a merger, acquisition, financing, reorganization, or sale of assets, subject to appropriate protections
+- To the service providers described in this Privacy Policy when necessary to operate AuraQuit
+- When you direct us to make a disclosure or provide your consent
+- When required to comply with applicable law, regulation, legal process, or a valid governmental request
+- When reasonably necessary to protect the rights, safety, security, or property of AuraQuit, its users, or others
+- In connection with a merger, acquisition, financing, reorganization, sale of assets, or similar business transaction, subject to applicable legal protections
 
-We do **not** sell or rent personal information. We do **not** share personal information for cross-context behavioral advertising.
+We do **not** sell or rent personal information.
+
+We do **not** share personal information for cross-context behavioral advertising.
+
+We do **not** provide your information to advertising networks or data brokers.
 
 ---
 
 ## 5. Data Storage and Security
 
-AuraQuit data may be stored locally on your device and, where account sync or cloud features are enabled, in systems operated by Firebase or other service providers.
+AuraQuit stores information primarily in two places.
 
-We use reasonable administrative, technical, and organizational safeguards designed to protect information. However, no system or method of transmission is completely secure, and we cannot guarantee absolute security.
+### On your device
 
-Information stored locally may be included in an iCloud or device backup depending on your Apple settings.
+AuraQuit stores App information in private storage on your device so that core functionality can work without an internet connection.
+
+This includes functionality such as:
+
+- Logging smoking or craving entries
+- Viewing history
+- Running craving-support activities
+- Viewing progress
+- Accessing locally available account information
+
+Your selected “why” photo is stored locally and is not uploaded to AuraQuit’s Supabase account backup.
+
+### In your AuraQuit account
+
+Eligible profile and App information is stored through Supabase so that it can be backed up and restored if you change, replace, lose, or reset your device.
+
+Information transmitted between AuraQuit and its service providers is protected using HTTPS/TLS.
+
+AuraQuit uses reasonable administrative, technical, and organizational safeguards intended to protect your information. These include authentication controls and database row-level security for account information stored through Supabase.
+
+Information stored locally is protected by the security and application-isolation mechanisms provided by iOS.
+
+No method of electronic transmission or storage is completely secure, so we cannot guarantee absolute security.
+
+Local information may also be included in an Apple device or iCloud backup depending on your Apple and device settings.
 
 ---
 
 ## 6. Data Retention and Deletion
 
-We retain account and app data for as long as needed to provide AuraQuit, maintain your account, comply with legal obligations, resolve disputes, and enforce agreements.
+We retain personal information for as long as reasonably necessary to:
 
-You can delete individual entries using available in-app controls. To delete your account and associated cloud-stored data, use the **Delete Account** option in AuraQuit’s settings or contact us at [sibij.r97@gmail.com](mailto:sibij.r97@gmail.com).
+- Provide AuraQuit and maintain your account
+- Provide backup and restoration functionality
+- Process or verify subscriptions
+- Comply with applicable legal requirements
+- Resolve disputes
+- Prevent fraud
+- Enforce our agreements or legal rights
+
+AuraQuit provides controls for deleting your information from within the App.
+
+### Erase all my data
+
+The **Erase all my data** option deletes your AuraQuit profile information, logged entries, written motivation, and locally stored “why” photo.
+
+Where applicable, eligible account data is also removed from AuraQuit’s hosted database.
+
+Your AuraQuit account remains active, and your Apple subscription remains separate from this deletion.
+
+### Delete account
+
+The **Delete account** option deletes your AuraQuit account and the AuraQuit data associated with it.
+
+After account deletion, you will no longer be able to sign in to that AuraQuit account.
+
+Account deletion cannot be undone.
+
+AuraQuit attempts to complete required server-side deletion before removing the corresponding local account information so that an interrupted request does not intentionally leave your account in a partially deleted state.
+
+You may also delete individual entries using available in-App controls.
+
+You can request assistance with deletion by emailing:
+
+**auraquit@gmail.com**
 
 After a verified deletion request:
 
-- We will delete or de-identify information associated with your account, unless retention is legally required
-- Some information may remain temporarily in encrypted backups before being removed through routine backup cycles
-- Apple and RevenueCat may retain transaction records as required for purchases, fraud prevention, accounting, or law
-- Anonymous or aggregated information that can no longer reasonably identify you may be retained
+- AuraQuit will delete or de-identify personal information associated with your account unless retention is required or permitted by applicable law
+- Some information may remain temporarily in encrypted service-provider backups until those backups are overwritten through normal retention cycles
+- Apple, RevenueCat, and other payment-related service providers may retain transaction information when required for purchases, fraud prevention, accounting, tax, security, or legal compliance
+- Information that has been irreversibly anonymized or aggregated so that it can no longer reasonably identify you may be retained
 
-Uninstalling AuraQuit removes locally stored app data from that device but may not delete an AuraQuit account or cloud-stored information. Use **Delete Account** or contact us to request full account deletion.
+Uninstalling AuraQuit removes App information stored locally on that device but does **not** by itself delete your AuraQuit account or information stored in your AuraQuit account backup.
+
+To delete your account and associated AuraQuit account information, use **Delete account** in the App or contact us.
+
+### Deleting your AuraQuit account does not cancel your Apple subscription
+
+Your App Store subscription is associated with your Apple ID and is managed by Apple.
+
+Deleting your AuraQuit account does **not** automatically cancel your subscription.
+
+To prevent future subscription renewals, manage or cancel the subscription through:
+
+**iOS Settings → your name → Subscriptions**
+
+You may cancel the subscription before or after deleting your AuraQuit account.
 
 ---
 
 ## 7. Your Choices and Privacy Rights
 
-Depending on where you live, you may have rights to:
+Depending on where you live and applicable law, you may have rights to:
 
-- Request access to personal information we hold about you
-- Correct inaccurate information
-- Request deletion of your information
+- Request access to personal information associated with you
+- Correct inaccurate or incomplete information
+- Request deletion of personal information
 - Receive a portable copy of certain information
 - Object to or restrict certain processing
 - Withdraw consent where processing is based on consent
-- Appeal a decision or lodge a complaint with a privacy regulator
+- Appeal certain privacy decisions
+- Submit a complaint to an applicable privacy or data-protection regulator
+
+AuraQuit allows you to view and update much of your information directly inside the App.
 
 You may also:
 
+- Edit account information through **Me → My details**
+- Delete individual entries
+- Use **Erase all my data**
+- Use **Delete account**
 - Change notification permissions in iOS Settings
-- Change motion or activity permissions in iOS Settings
-- Hide your email when using Sign in with Apple
-- Cancel or manage subscriptions in your Apple ID subscription settings
+- Change motion or photo-library permissions in iOS Settings
+- Remove your “why” photo from the App
+- Use Hide My Email when signing in with Apple
+- Manage or cancel your subscription through your Apple ID subscription settings
 
-To exercise a privacy right, email [sibij.r97@gmail.com](mailto:sibij.r97@gmail.com). We may need to verify your identity before completing a request.
+To make a privacy request, contact:
 
-### EEA, UK, and Switzerland
+**auraquit@gmail.com**
 
-Where applicable, we process information to perform our contract with you, based on your consent, to comply with law, and for legitimate interests such as security, troubleshooting, and improving AuraQuit. When health-related information is treated as special-category data, we rely on your explicit consent or another lawful basis available under applicable law.
+We may need to verify that you are the person associated with the account before completing certain requests.
+
+### European Economic Area, United Kingdom, and Switzerland
+
+Where applicable, we process personal information under one or more lawful bases, including:
+
+- Performance of a contract with you
+- Your consent
+- Compliance with legal obligations
+- Legitimate interests, such as protecting AuraQuit and preventing abuse
+
+Where health or wellness information is treated as special-category or sensitive information, we process it only where a lawful basis for that processing is available, including explicit consent where required.
+
+Where processing is based on consent, you may withdraw that consent as permitted by applicable law.
+
+You may also have the right to lodge a complaint with your local data-protection authority.
 
 ### California and other U.S. states
 
-AuraQuit does not sell personal information or share it for cross-context behavioral advertising. Residents of jurisdictions with applicable privacy laws may request access, correction, deletion, or other rights described above, subject to legal exceptions.
+AuraQuit does not sell personal information or share personal information for cross-context behavioral advertising.
+
+Residents of jurisdictions with applicable privacy laws may have rights to access, correct, delete, or obtain information about the processing of their personal information, subject to applicable exceptions.
+
+We will not discriminate against you for exercising applicable privacy rights.
 
 ### India
 
-Where India’s Digital Personal Data Protection Act, 2023 applies, you may request access to information about processing, correction, completion, updating, or erasure of personal data, and may submit a grievance using the contact information below, subject to applicable law.
+Where India’s Digital Personal Data Protection Act, 2023 and related applicable requirements apply, you may have rights concerning access to information about processing, correction, completion, updating, erasure, and grievance redressal, subject to applicable law.
+
+You can submit a privacy request or grievance using the contact information provided below.
 
 ---
 
 ## 8. Children’s Privacy
 
-AuraQuit is intended for adults and is not directed to children under 13 or the minimum age required in their jurisdiction. We do not knowingly collect personal information from children below the applicable minimum age.
+AuraQuit is intended for adults who smoke and is not directed to children.
 
-If you believe a child has provided personal information to AuraQuit, contact us so we can investigate and delete it as appropriate.
+We do not knowingly collect personal information from children under 13 or from anyone below the minimum age at which they may lawfully use the App in their jurisdiction.
+
+If you believe that a child has provided personal information to AuraQuit, please contact us at **auraquit@gmail.com** so that we can investigate and take appropriate action.
 
 ---
 
 ## 9. International Data Transfers
 
-AuraQuit and its service providers may process information in countries other than the country where you live. Where required, we rely on recognized transfer mechanisms and contractual safeguards intended to protect personal information.
+AuraQuit’s service providers may process information in countries other than the country in which you live, including the United States.
+
+Where required by applicable law, appropriate legal and contractual safeguards may be used for international transfers of personal information, including recognized contractual transfer mechanisms.
 
 ---
 
 ## 10. Tracking and Advertising
 
-AuraQuit does not use the Apple advertising identifier (IDFA) for cross-app tracking and does not sell information to data brokers. Product analytics, if enabled, are used to operate and improve AuraQuit rather than to serve third-party targeted advertising.
+AuraQuit does not contain third-party advertising.
+
+AuraQuit does not use advertising networks and does not use your smoking, craving, wellness, or account information to serve targeted advertisements.
+
+AuraQuit does not use the Apple advertising identifier (IDFA) for cross-app advertising and does not perform cross-app or cross-site tracking for advertising purposes.
+
+AuraQuit therefore does not request App Tracking Transparency permission for advertising or cross-app tracking.
+
+AuraQuit does not sell personal information to data brokers.
 
 ---
 
 ## 11. Changes to This Privacy Policy
 
-We may update this Privacy Policy as AuraQuit changes or as required by law. We will update the “Last updated” date and provide additional notice when appropriate. We encourage you to review this page periodically.
+We may update this Privacy Policy from time to time to reflect:
+
+- Changes to AuraQuit
+- Changes to the services we use
+- Changes to our privacy practices
+- Legal or regulatory requirements
+
+When we update this Privacy Policy, we will update the **Last updated** date at the top of this page.
+
+Where appropriate or required by law, we may also provide additional notice inside the App or through another reasonable method.
+
+We encourage you to review this Privacy Policy periodically.
 
 ---
 
 ## 12. Contact and Data Controller
 
-For privacy questions, requests, or complaints, contact:
+For privacy questions, requests, complaints, or account-deletion assistance, contact:
 
 **AuraQuit**  
-**Developer:** Sibi J R  
-**Email:** [sibij.r97@gmail.com](mailto:sibij.r97@gmail.com)
+**Email:** auraquit@gmail.com
 
-For applicable data-protection laws, Sibi J R is the data controller responsible for the personal information processed by AuraQuit.
+For applicable data-protection laws, the operator of AuraQuit is responsible for the personal information processed by AuraQuit and can be contacted using the information above.
 
 ---
 
-## 13. Summary
+## 13. Privacy Summary
 
 | Topic | AuraQuit’s practice |
 |---|---|
-| Account information | Used for authentication and account management |
-| Quit-smoking and wellness data | Used to provide tracking, progress, and craving-support features |
+| Account | Required for backup and restoration |
+| Sign-in | Sign in with Apple or Sign in with Google |
+| Quit-smoking and wellness data | Used for tracking, progress, and craving-support features |
+| “Why” photo | Stored locally; not uploaded to AuraQuit’s Supabase backup |
+| Cloud storage | Supabase |
+| Database access protection | Account-based row-level security |
+| Firebase | Not used |
+| Behavioral analytics | Not used |
+| Third-party crash reporting | Not used |
+| Notifications | Scheduled locally on the device |
 | Purchases | Processed through Apple and RevenueCat |
-| Cloud and app services | Firebase may process data for authentication, storage, analytics, diagnostics, or messaging |
 | Advertising | No third-party advertising |
-| Cross-app tracking | No |
-| Personal data sold | Never |
-| Account deletion | Use Delete Account in the App or email us |
+| IDFA / cross-app advertising tracking | Not used |
+| Personal information sold | No |
+| Core offline functionality | Supported |
+| Data deletion | Available within the App |
+| Account deletion | Available within the App |
+| Subscription cancellation | Managed separately through Apple |
