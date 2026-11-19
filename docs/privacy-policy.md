@@ -9,7 +9,7 @@ permalink: /privacy-policy/
 **AuraQuit – Quit Smoking**
 
 **Effective date:** August 30, 2026  
-**Last updated:** August 30, 2026
+**Last updated:** November 20, 2026
 
 This Privacy Policy explains how AuraQuit (“AuraQuit,” “the App,” “we,” “us,” or “our”) collects, uses, stores, and shares information when you use the AuraQuit mobile application.
 
@@ -23,14 +23,14 @@ AuraQuit is a smoking-cessation support and habit-tracking app. It is not a medi
 
 AuraQuit requires an account so that your history can be backed up and restored if you change, lose, or reset your device.
 
-You may sign in using **Sign in with Apple** or **Sign in with Google**. Depending on the sign-in method and the information you choose to provide, we may receive:
+You sign in using **Sign in with Apple**. Depending on the information you choose to share with Apple, we may receive:
 
 - A user identifier associated with your account
 - Your email address
-- Your name, if provided by Apple or Google
+- Your name, if provided by Apple
 - Authentication and account-status information
 
-Neither Apple nor Google provides your password to AuraQuit.
+Apple does not provide your password to AuraQuit.
 
 If you use Sign in with Apple and choose **Hide My Email**, AuraQuit receives Apple’s private relay email address instead of your personal email address. The App will continue to work normally.
 
@@ -116,7 +116,7 @@ We do not use behavioral analytics to track:
 
 We do not use the Apple advertising identifier (IDFA) for advertising or cross-app tracking.
 
-When AuraQuit communicates with service providers such as Supabase, RevenueCat, Apple, or Google, those providers may process technical information required to provide their services, such as:
+When AuraQuit communicates with service providers such as Supabase, RevenueCat, or Apple, those providers may process technical information required to provide their services, such as:
 
 - IP address
 - Device type
@@ -190,15 +190,6 @@ Apple may process authentication, account, transaction, device, and subscription
 
 Apple Privacy Policy:  
 https://www.apple.com/legal/privacy/
-
-### Google
-
-If you choose **Sign in with Google**, Google authenticates your account and provides information required to establish your AuraQuit account, such as a user identifier, email address, and potentially your name depending on your account and consent.
-
-AuraQuit does not use Firebase, Google Analytics, Google Ads, or other Google services for App analytics or advertising.
-
-Google Privacy Policy:  
-https://policies.google.com/privacy
 
 ### Supabase
 
@@ -486,7 +477,7 @@ For applicable data-protection laws, the operator of AuraQuit is responsible for
 | Topic | AuraQuit’s practice |
 |---|---|
 | Account | Required for backup and restoration |
-| Sign-in | Sign in with Apple or Sign in with Google |
+| Sign-in | Sign in with Apple |
 | Quit-smoking and wellness data | Used for tracking, progress, and craving-support features |
 | “Why” photo | Stored locally; not uploaded to AuraQuit’s Supabase backup |
 | Cloud storage | Supabase |

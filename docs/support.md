@@ -29,8 +29,7 @@ does **not** cancel billing — cancel in iOS Settings as above.
 
 ### I already paid, but it asks me to subscribe
 Your subscription is tied to the Apple ID that paid, and to the AuraQuit account
-you were signed into. Sign in with the same provider you used originally (Apple
-or Google), then tap **Restore Purchases** on the subscription screen.
+you were signed into. Sign in with the same Apple ID you used originally, then tap **Restore Purchases** on the subscription screen.
 
 ### Motion & Fitness isn't working
 The Walk activity counts steps. If you declined the permission, enable it in
